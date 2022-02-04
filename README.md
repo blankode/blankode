@@ -3,4 +3,4 @@
 - 🥚 Evolution in progress..
 - 🪐 Check out my [website](http://www.blankode.eu)
 - 📫 You can contact me at porosnicu.bogdan@outlook.com
-- 🏠 Currently located in Germany
+- 🏠 Currently located in Timișoara, România
