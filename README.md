@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **@blankode**!
 - 👀 I’m interested in **Software Development**
-- 🥚 Evolving
+- 🥚 Always Evolving
 - 🪐 Check out my Portofolio [website](https://blankode.github.io/Portofolio/)
 - 📫 You can contact me at **porosnicu.bogdan@outlook.com**
 - 🏠 Currently located in **Timișoara**, **România**
