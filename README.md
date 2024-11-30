@@ -2,5 +2,5 @@
 - 👀 I’m interested in **Software Development**
 - 🥚 Always Evolving
 - 🪐 Check out my [**Portofolio**](https://blankode.github.io/Portofolio/)
-- 📫 You can contact me at **porosnicu.bogdan@outlook.com**
+- 📫 You can contact me at **bogdan.porosnicu@icloud.com**
 - 🏠 Currently located in **Timișoara**, **România**
