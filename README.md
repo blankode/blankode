@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **@blankode**!
+- 👋 Hi, I’m **Bogdan, aka @blankode**!
 - 👀 I’m interested in **Software Development**
 - 🥚 Always Evolving
 - 🪐 Check out my [**Portofolio**](https://blankode.github.io/Portofolio/)
